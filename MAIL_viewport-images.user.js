@@ -1,14 +1,14 @@
 // ==UserScript==
 // @name         [Gmail] Viewport-Fit Fluid Images
-// @namespace    https://github.com/myouisaur/Gmail
+// @namespace    https://github.com/myouisaur/Google
 // @icon         https://mail.google.com/favicon.ico
 // @version      2.4
 // @description  Dynamically resizes large email images to fit screen space while respecting intended layout bounds and edge cases.
 // @author       Xiv
 // @match        *://mail.google.com/*
 // @noframes
-// @updateURL    https://myouisaur.github.io/Gmail/viewport-images.user.js
-// @downloadURL  https://myouisaur.github.io/Gmail/viewport-images.user.js
+// @updateURL    https://myouisaur.github.io/Gmail/MAIL_viewport-images.user.js
+// @downloadURL  https://myouisaur.github.io/Gmail/MAIL_viewport-images.user.js
 // ==/UserScript==
 
 (function () {
