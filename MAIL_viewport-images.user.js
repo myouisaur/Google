@@ -7,8 +7,8 @@
 // @author       Xiv
 // @match        *://mail.google.com/*
 // @noframes
-// @updateURL    https://myouisaur.github.io/Gmail/MAIL_viewport-images.user.js
-// @downloadURL  https://myouisaur.github.io/Gmail/MAIL_viewport-images.user.js
+// @updateURL    https://myouisaur.github.io/Google/MAIL_viewport-images.user.js
+// @downloadURL  https://myouisaur.github.io/Google/MAIL_viewport-images.user.js
 // ==/UserScript==
 
 (function () {
